@@ -1,0 +1,10 @@
+['default']
+PRODUCTS = '/products'
+PRODUCTSDETAILS = '/productsdetails'
+
+API_HOST = '0.0.0.0'
+API_PORT_NUMBER = 2020
+[pymongo]
+IPADDRESS = 'localhost'
+USERNAME=''
+PASSWORD=''

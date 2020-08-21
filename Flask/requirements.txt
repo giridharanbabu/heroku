@@ -1,0 +1,10 @@
+werkzeug==0.16
+flask
+dynaconf
+pymongo
+configparser
+flask_restplus
+gunicorn
+itsdangerous==0.24
+Jinja2
+MarkupSafe==0.23
